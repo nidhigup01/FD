@@ -14,3 +14,10 @@ matplotlib
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
+https://github.com/udacity/machine-learning Please clone all the files from this link
+This project contains three files:
+
+finding_donors.ipynb: This is the main file where you will be performing your work on the project.
+census.csv: The project dataset. You?ll load this data in the notebook.
+visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command jupyter notebook finding_donors.ipynb to open up a browser window or tab to work with your notebook. Alternatively, you can use the command jupyter notebook or ipython notebook and navigate to the notebook file in the browser window that opens. 
